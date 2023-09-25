@@ -47,7 +47,7 @@ const projects = {
     more: "https://github.com/Immarculate",
   },
   4: {
-    title: "Food Delivery App",
+    title: "Helium Landing Page",
     image: "https://res.cloudinary.com/dvfgovtow/image/upload/v1695664254/project-4_n01tqq.png",
     description: (
       <>
