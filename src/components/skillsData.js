@@ -8,10 +8,6 @@ const skills = {
         title: "CSS",
         level: 5,
       },
-    //   {
-    //     title: "SASS",
-    //     level: 2,
-    //   },
       {
         title: "JavaScript",
         level: 5,
@@ -28,10 +24,6 @@ const skills = {
         title: "TypeScript",
         level: 1,
       },
-    //   {
-    //     title: "Figma",
-    //     level: 4,
-    //   },
     ],
     2: [
       {

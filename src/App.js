@@ -1,23 +1,3 @@
-// import React from 'react';
-// import { BrowserRouter, Routes, Route } from 'react-router-dom';
-// import Home from './components/About';
-// import Nav from './components/Nav';
-
-// const App = () => {
-//   return (
-//     <div>
-//       <Nav />
-//       <BrowserRouter>
-//          <Routes>
-//            <Route path='/' element={<Home />} />
-//          </Routes>
-//       </BrowserRouter>
-//     </div>
-//   )
-// }
-
-// export default App
-
 // eslint-disable-next-line no-unused-vars
 import React, {Component, Fragment} from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
